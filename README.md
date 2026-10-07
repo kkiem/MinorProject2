@@ -1,1 +1,1 @@
-# MinorPrjoject2
+# MinorProject2
